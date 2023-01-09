@@ -1,10 +1,10 @@
 <img style="width:100px;" src="https://imgs.jobkorea.co.kr/img1/user_photo/photo/2022/4/27/JK_GG_ULZCxM22042721321242.jpg"> <br>
 
 # 임형규 
----
+
 문제를 해결하는 과정과 결과를 즐기는 노력의 천재 <br> <br>
 강하고 바르게 살며 놀고 일하고 사랑하고 연대하는 에너자이저 <br><br>
-
+---
 ## Contact & Channels
 - **Email** | frvlv6@naver.com
 - **Github** | https://github.com/broadspring/semi_proj

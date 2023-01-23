@@ -7,7 +7,7 @@
 
 ## Contact & Channels
 - **Email** | frvlv6@naver.com
-- **Github** | https://github.com/broadspring/semi_proj
+- **Github** | https://github.com/broadspring/final_proj
 - **Notion** | https://www.notion.so/Team_Miracle-e577e65b76a7478f90e49c5b5507c894 <br> <br>
 ---
 
